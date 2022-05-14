@@ -1,9 +1,9 @@
 # Course-Library-API
-Course Library Api with Create, Read, Update, and Delete resources and supports paging, sorting, data shaping, HATEOAS, advanced content negotiation, custom media types, and caching.
+Course Library API with Create, Read, Update, and Delete authors with their courses. 
 
 ## Technologies & Languages:
 - C#
-- ASP.NET Core
+- ASP.NET Core API
 - Entity Framework
 - SQL Server
 
